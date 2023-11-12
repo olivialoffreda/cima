@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor {
+    width: 960px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0;
+    background-image: url(img/montanafondo.png);
+    background-repeat: no-repeat;
+}
+
+#arriba {
+    padding-top: 150px;
+    padding-bottom: 115px;
+}
